@@ -18,8 +18,8 @@ include:
   # - board: corneish_zen_right@2.0.0//zmk
   # - board: glove80_lh
   # - board: glove80_rh
-  - board: nice_nano
+  - board: nice_nano//zmk
     shield: corne_left nice_view_adapter nice_view
     snippet: studio-rpc-usb-uart
-  - board: nice_nano
+  - board: nice_nano//zmk
     shield: corne_right nice_view_adapter nice_view
